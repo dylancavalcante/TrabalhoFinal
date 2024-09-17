@@ -1,0 +1,74 @@
+{
+    "pets": [
+        {
+            "name": "bob",
+            "type": "cachorro",
+            "breed": "pinscher",
+            "age": "2",
+            "description": "velho rabugento",
+            "responsible": "Pedro",
+            "cellphone": "(61)93696-2523",
+            "gender": "macho"
+        },
+        {
+            "name": "leleu",
+            "type": "cat",
+            "breed": "persa",
+            "age": "1",
+            "description": "Amigo e amoroso",
+            "responsible": "gabriel",
+            "cellphone": "(61)93325-3639",
+            "gender": "macho"
+        },
+        {
+            "name": "mark",
+            "type": "dog",
+            "breed": "Pastor alemão, branco",
+            "age": "4",
+            "description": "Um pastor alemÃ£o calmo e amoroso",
+            "responsible": "julia",
+            "cellphone": "(61)93965-3824",
+            "gender": "macho"
+        },
+        {
+            "name": "Bebeu",
+            "type": "other",
+            "breed": "Coelho",
+            "age": "1",
+            "description": "Bebeu é uma coelha divertida",
+            "responsible": "Bruna",
+            "cellphone": "(61)3325-3639",
+            "gender": "femea"
+        },
+        {
+            "name": "Lui",
+            "type": "dog",
+            "breed": "Pastor alemão",
+            "age": "2",
+            "description": "Preto com Branco, Amígavel.",
+            "responsible": "Júlia",
+            "cellphone": "(61)3325-3639",
+            "gender": "femea"
+        },
+        {
+            "name": "theo",
+            "type": "cat",
+            "breed": "vira-lata",
+            "age": "5",
+            "description": "Docil, cor: caramelo.",
+            "responsible": "Pedro",
+            "cellphone": "(55)0000-0000",
+            "gender": "macho"
+        },
+        {
+            "name": "Mel",
+            "type": "dog",
+            "breed": "salsicha",
+            "age": "2",
+            "description": "Caramelo, Companheira e Amiga.",
+            "responsible": "Ana",
+            "cellphone": "(81)98634-8523",
+            "gender": "femea"
+        }
+    ]
+}

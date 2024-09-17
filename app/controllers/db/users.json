@@ -1,0 +1,75 @@
+{
+    "users": [
+        {
+            "username": "dylan_01",
+            "email": "dylan@gmail.com",
+            "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+            "session_id": "ceb2ba64-2f36-4865-b662-a17ea1df2bb7"
+        },
+        {
+            "username": "teste",
+            "email": "teste@gmail.com",
+            "password": "46070d4bf934fb0d4b06d9e2c46e346944e322444900a435d7d9a95e6d7435f5"
+        },
+        {
+            "username": "yasmin",
+            "email": "yasmin@gmail.com",
+            "password": "d5e7d945ccf8829e9b18eb3ed3b720ca2bb6ff1931a58aaa9ce8253913ea4139"
+        },
+        {
+            "username": "minecraft",
+            "email": "minecraft@gmail.com",
+            "password": "9970626666560a32465d4ce10d28f3233365af833e15eed59884d9477862c379"
+        },
+        {
+            "username": "bananasdepijama",
+            "email": "bananasdepijama@gmail.com",
+            "password": "9f07749f30fb86405163b9a17a92cba832eccc1792e9b687f725c9f158c2aaff"
+        },
+        {
+            "username": "kiko",
+            "email": "kiko@gmail.com",
+            "password": "d0cc4101c015609d3e6e9bff2cfcf643ec4b05330949c658472516e2220afae1"
+        },
+        {
+            "username": "J\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00balia",
+            "email": "julia@gmail.com",
+            "password": "cdbd41d016cdec10d0ff2291a6bdae398b565a831622bedcd4dcafa69252b5e7"
+        },
+        {
+            "username": "renomeado666",
+            "email": "teste666@gmail.com",
+            "password": "c7e616822f366fb1b5e0756af498cc11d2c0862edcb32ca65882f622ff39de1b",
+            "session_id": "78a53154-75bc-431e-b4cd-7d726d17de5d"
+        },
+        {
+            "username": "teste13",
+            "email": "teste13@gmail.com",
+            "password": "ffdf38ff839b64e1e1f17c09edbb80d3cc39744adcbb6d6953260cd13b0f2b52",
+            "session_id": "b4742af1-69a6-483f-b4bd-328daacdec00"
+        },
+        {
+            "username": "apresentacao",
+            "email": "apresentacao@gmail.com",
+            "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+            "session_id": null
+        },
+        {
+            "username": "teste32",
+            "email": "teste32@gmail.com",
+            "password": "ca14bbac162e83bf134b206f7225e234829410df9b1c7264184e3f45270d721c",
+            "session_id": "8de81706-b195-46f9-93c9-0e8d842f6fcd"
+        },
+        {
+            "username": "teste_terminal",
+            "email": "teste_terminal@gmail.com",
+            "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+        },
+        {
+            "username": "teste388@",
+            "email": "teste388@gmail.com",
+            "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+            "session_id": "c151a63e-a11e-401d-a621-0378e4de289c"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #ffac12f3; /* Cor de fundo original */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    padding: 2rem;
+    background-color: #ffffff; /* Limpo e claro */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 12px; /* Cantos levemente arredondados */
+    text-align: center;
+}
+
+h1 {
+    color: #333333;
+    margin-bottom: 1.5rem; /* Margem reduzida */
+    font-size: 2.8rem; /* Tamanho do título aumentado */
+}
+
+.pet-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.pet-card {
+    background-color: #ffd54f; /* Amarelo mais acolhedor */
+    border-radius: 10px;
+    padding: 1.5rem; /* Aumento do padding */
+    margin: 1rem;
+    width: calc(30% - 2rem); /* Ajustado para a margem */
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s; /* Transição adicionada para o efeito hover */
+}
+
+.pet-card:hover {
+    transform: scale(1.05); /* Efeito de zoom leve ao passar o mouse */
+}
+
+.pet-card h2 {
+    font-size: 1.8rem; /* Tamanho do subtítulo aumentado */
+    color: #444444; /* Texto mais escuro para melhor contraste */
+}
+
+.pet-card p {
+    font-size: 1.1rem; /* Tamanho do texto do corpo aumentado */
+    color: #666666; /* Cor do texto suavizada */
+}
+
+a {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 0.5rem 2rem; /* Aumento do padding para os botões */
+    background-color: #fac241; 
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s; /* Efeitos de transição adicionados */
+}
+
+a:hover {
+    background-color: #ffbc20; 
+    transform: translateY(-2px); /* Efeito de elevação ao passar o mouse */
+}
+
+@media screen and (max-width: 768px) {
+    .pet-card {
+        width: calc(100% - 2rem); /* Largura total em telas menores */
+        margin-bottom: 1rem; 
+        padding-left:.5rem; 
+        padding-right:.5rem; 
+        padding-top:.5rem; 
+        padding-bottom:.5rem; 
+        box-shadow:none; 
+        border-radius:none; 
+        background-color:none
+     }
+}
