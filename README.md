@@ -1,10 +1,7 @@
-# Bmvc
+Trabalho final da materia de orientação a objetos. Para iniciar a página, escreva na raiz do projeto:
 
-## Trabalhando com o BMVC no BASH:
+python route.py
 
-1. Executar o arquivo 'route.py', na raiz do projeto.
+Para executar o script de Super Administrador, escreva na raiz do projeto:
 
-## Trabalhando com o BMVC no DOCKER:
-
-1. $ docker build -t bmvci .
-1. $ docker run -d -p 8080:8080 -v $(pwd):/app bmvci
+python superadm_script.py
